@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #f9e3e3;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Raleway', sans-serif;
     flex-direction: column;
   }
   
@@ -36,7 +36,7 @@ body {
   .no-button {
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color: #f44336;
+    background-color: #c41f3f;
     color: white;
     border: none;
     border-radius: 5px;
